@@ -122,7 +122,7 @@
                 <expression xmi:type="expression:Expression" xmi:id="_Ry_ESda2EfCpk7lEcjaRcQ" name="true" content="true" returnType="java.lang.Boolean" returnTypeFixed="true"/>
               </parameters>
               <parameters xmi:type="connectorconfiguration:ConnectorParameter" xmi:id="_Ry_ESta2EfCpk7lEcjaRcQ" key="message">
-                <expression xmi:type="expression:Expression" xmi:id="_Ry_ES9a2EfCpk7lEcjaRcQ" name="&lt;pattern-expression>" content="&lt;p>Sorry, your proposal is a piece of shit.&lt;/p>&#xA;" type="TYPE_PATTERN" returnTypeFixed="true"/>
+                <expression xmi:type="expression:Expression" xmi:id="_Ry_ES9a2EfCpk7lEcjaRcQ" name="&lt;pattern-expression>" content="&lt;p>Sorry, your proposal was rejected.&lt;/p>&#xA;" type="TYPE_PATTERN" returnTypeFixed="true"/>
               </parameters>
               <parameters xmi:type="connectorconfiguration:ConnectorParameter" xmi:id="_Ry_ETNa2EfCpk7lEcjaRcQ" key="headers">
                 <expression xmi:type="expression:TableExpression" xmi:id="_Ry_ETda2EfCpk7lEcjaRcQ"/>
@@ -371,7 +371,7 @@
                 <expression xmi:type="expression:Expression" xmi:id="_Ry_rnta2EfCpk7lEcjaRcQ" name="true" content="true" returnType="java.lang.Boolean" returnTypeFixed="true"/>
               </parameters>
               <parameters xmi:type="connectorconfiguration:ConnectorParameter" xmi:id="_Ry_rn9a2EfCpk7lEcjaRcQ" key="message">
-                <expression xmi:type="expression:Expression" xmi:id="_Ry_roNa2EfCpk7lEcjaRcQ" name="&lt;pattern-expression>" content="&lt;p>Sorry, you project is shit.&lt;/p>&#xA;" type="TYPE_PATTERN" returnTypeFixed="true"/>
+                <expression xmi:type="expression:Expression" xmi:id="_Ry_roNa2EfCpk7lEcjaRcQ" name="&lt;pattern-expression>" content="&lt;p>Sorry, you project was rejected.&lt;/p>&#xA;" type="TYPE_PATTERN" returnTypeFixed="true"/>
               </parameters>
               <parameters xmi:type="connectorconfiguration:ConnectorParameter" xmi:id="_Ry_roda2EfCpk7lEcjaRcQ" key="headers">
                 <expression xmi:type="expression:TableExpression" xmi:id="_Ry_rota2EfCpk7lEcjaRcQ"/>
