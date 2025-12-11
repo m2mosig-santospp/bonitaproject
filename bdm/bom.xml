@@ -14,6 +14,7 @@
                 <field type="LOCALDATE" length="255" name="proposalStartDate" nullable="true" collection="false"/>
                 <field type="LOCALDATE" length="255" name="proposalEndDate" nullable="true" collection="false"/>
                 <field type="STRING" length="255" name="proposalPriority" nullable="true" collection="false"/>
+                <field type="BOOLEAN" length="255" name="testPass" nullable="true" collection="false"/>
             </fields>
             <uniqueConstraints/>
             <queries/>
