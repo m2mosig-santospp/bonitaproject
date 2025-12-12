@@ -605,7 +605,7 @@
           <iteratorExpression xmi:type="expression:Expression" xmi:id="_Ry_sQta2EfCpk7lEcjaRcQ" name="multiInstanceIterator" content="multiInstanceIterator" type="MULTIINSTANCE_ITERATOR_TYPE" returnType="java.lang.Object" returnTypeFixed="true"/>
           <completionCondition xmi:type="expression:Expression" xmi:id="_Ry_sQ9a2EfCpk7lEcjaRcQ" name="" content="" returnType="java.lang.Boolean" returnTypeFixed="true"/>
           <formMapping xmi:type="process:FormMapping" xmi:id="_Ry_sRNa2EfCpk7lEcjaRcQ">
-            <targetForm xmi:type="expression:Expression" xmi:id="_noFvANa2EfCpk7lEcjaRcQ" name="" content="" type="FORM_REFERENCE_TYPE" returnTypeFixed="true"/>
+            <targetForm xmi:type="expression:Expression" xmi:id="__oZNQNctEfCI_rnsAVBrvg" name="" content="" type="FORM_REFERENCE_TYPE" returnTypeFixed="true"/>
           </formMapping>
           <contract xmi:type="process:Contract" xmi:id="_Ry_sRta2EfCpk7lEcjaRcQ"/>
           <expectedDuration xmi:type="expression:Expression" xmi:id="_Ry_sR9a2EfCpk7lEcjaRcQ" name="" content="" returnType="java.lang.Long" returnTypeFixed="true"/>
@@ -620,7 +620,7 @@
           <iteratorExpression xmi:type="expression:Expression" xmi:id="_Ry_sT9a2EfCpk7lEcjaRcQ" name="multiInstanceIterator" content="multiInstanceIterator" type="MULTIINSTANCE_ITERATOR_TYPE" returnType="java.lang.Object" returnTypeFixed="true"/>
           <completionCondition xmi:type="expression:Expression" xmi:id="_Ry_sUNa2EfCpk7lEcjaRcQ" name="" content="" returnType="java.lang.Boolean" returnTypeFixed="true"/>
           <formMapping xmi:type="process:FormMapping" xmi:id="_Ry_sUda2EfCpk7lEcjaRcQ">
-            <targetForm xmi:type="expression:Expression" xmi:id="_noFvAda2EfCpk7lEcjaRcQ" name="" content="" type="FORM_REFERENCE_TYPE" returnTypeFixed="true"/>
+            <targetForm xmi:type="expression:Expression" xmi:id="__oZNQdctEfCI_rnsAVBrvg" name="" content="" type="FORM_REFERENCE_TYPE" returnTypeFixed="true"/>
           </formMapping>
           <contract xmi:type="process:Contract" xmi:id="_Ry_sU9a2EfCpk7lEcjaRcQ"/>
           <expectedDuration xmi:type="expression:Expression" xmi:id="_Ry_sVNa2EfCpk7lEcjaRcQ" name="" content="" returnType="java.lang.Long" returnTypeFixed="true"/>
@@ -635,7 +635,7 @@
           <iteratorExpression xmi:type="expression:Expression" xmi:id="_Ry_sXNa2EfCpk7lEcjaRcQ" name="multiInstanceIterator" content="multiInstanceIterator" type="MULTIINSTANCE_ITERATOR_TYPE" returnType="java.lang.Object" returnTypeFixed="true"/>
           <completionCondition xmi:type="expression:Expression" xmi:id="_Ry_sXda2EfCpk7lEcjaRcQ" name="" content="" returnType="java.lang.Boolean" returnTypeFixed="true"/>
           <formMapping xmi:type="process:FormMapping" xmi:id="_Ry_sXta2EfCpk7lEcjaRcQ">
-            <targetForm xmi:type="expression:Expression" xmi:id="_noFvAta2EfCpk7lEcjaRcQ" name="" content="" type="FORM_REFERENCE_TYPE" returnTypeFixed="true"/>
+            <targetForm xmi:type="expression:Expression" xmi:id="__oZNQtctEfCI_rnsAVBrvg" name="" content="" type="FORM_REFERENCE_TYPE" returnTypeFixed="true"/>
           </formMapping>
           <contract xmi:type="process:Contract" xmi:id="_Ry_sYNa2EfCpk7lEcjaRcQ"/>
           <expectedDuration xmi:type="expression:Expression" xmi:id="_Ry_sYda2EfCpk7lEcjaRcQ" name="" content="" returnType="java.lang.Long" returnTypeFixed="true"/>
@@ -650,7 +650,7 @@
           <iteratorExpression xmi:type="expression:Expression" xmi:id="_Ry_sada2EfCpk7lEcjaRcQ" name="multiInstanceIterator" content="multiInstanceIterator" type="MULTIINSTANCE_ITERATOR_TYPE" returnType="java.lang.Object" returnTypeFixed="true"/>
           <completionCondition xmi:type="expression:Expression" xmi:id="_Ry_sata2EfCpk7lEcjaRcQ" name="" content="" returnType="java.lang.Boolean" returnTypeFixed="true"/>
           <formMapping xmi:type="process:FormMapping" xmi:id="_Ry_sa9a2EfCpk7lEcjaRcQ">
-            <targetForm xmi:type="expression:Expression" xmi:id="_noFvA9a2EfCpk7lEcjaRcQ" name="" content="" type="FORM_REFERENCE_TYPE" returnTypeFixed="true"/>
+            <targetForm xmi:type="expression:Expression" xmi:id="__oZNQ9ctEfCI_rnsAVBrvg" name="" content="" type="FORM_REFERENCE_TYPE" returnTypeFixed="true"/>
           </formMapping>
           <contract xmi:type="process:Contract" xmi:id="_Ry_sbda2EfCpk7lEcjaRcQ"/>
           <expectedDuration xmi:type="expression:Expression" xmi:id="_Ry_sbta2EfCpk7lEcjaRcQ" name="" content="" returnType="java.lang.Long" returnTypeFixed="true"/>
@@ -665,7 +665,7 @@
           <iteratorExpression xmi:type="expression:Expression" xmi:id="_Ry_sdta2EfCpk7lEcjaRcQ" name="multiInstanceIterator" content="multiInstanceIterator" type="MULTIINSTANCE_ITERATOR_TYPE" returnType="java.lang.Object" returnTypeFixed="true"/>
           <completionCondition xmi:type="expression:Expression" xmi:id="_Ry_sd9a2EfCpk7lEcjaRcQ" name="" content="" returnType="java.lang.Boolean" returnTypeFixed="true"/>
           <formMapping xmi:type="process:FormMapping" xmi:id="_Ry_seNa2EfCpk7lEcjaRcQ">
-            <targetForm xmi:type="expression:Expression" xmi:id="_noFvBNa2EfCpk7lEcjaRcQ" name="" content="" type="FORM_REFERENCE_TYPE" returnTypeFixed="true"/>
+            <targetForm xmi:type="expression:Expression" xmi:id="__oZNRNctEfCI_rnsAVBrvg" name="" content="" type="FORM_REFERENCE_TYPE" returnTypeFixed="true"/>
           </formMapping>
           <contract xmi:type="process:Contract" xmi:id="_Ry_seta2EfCpk7lEcjaRcQ"/>
           <expectedDuration xmi:type="expression:Expression" xmi:id="_Ry_se9a2EfCpk7lEcjaRcQ" name="" content="" returnType="java.lang.Long" returnTypeFixed="true"/>
@@ -705,7 +705,7 @@
           <iteratorExpression xmi:type="expression:Expression" xmi:id="_Ry_slNa2EfCpk7lEcjaRcQ" name="multiInstanceIterator" content="multiInstanceIterator" type="MULTIINSTANCE_ITERATOR_TYPE" returnType="java.lang.Object" returnTypeFixed="true"/>
           <completionCondition xmi:type="expression:Expression" xmi:id="_Ry_slda2EfCpk7lEcjaRcQ" name="" content="" returnType="java.lang.Boolean" returnTypeFixed="true"/>
           <formMapping xmi:type="process:FormMapping" xmi:id="_Ry_slta2EfCpk7lEcjaRcQ">
-            <targetForm xmi:type="expression:Expression" xmi:id="_noFvBda2EfCpk7lEcjaRcQ" name="" content="" type="FORM_REFERENCE_TYPE" returnTypeFixed="true"/>
+            <targetForm xmi:type="expression:Expression" xmi:id="_noFvBda2EfCpk7lEcjaRcQ" name="projectSuccess" content="b2f7f8c6-7b5e-4f9b-96f1-3ae66593db87" type="FORM_REFERENCE_TYPE" returnTypeFixed="true"/>
           </formMapping>
           <contract xmi:type="process:Contract" xmi:id="_Ry_smNa2EfCpk7lEcjaRcQ">
             <inputs xmi:type="process:ContractInput" xmi:id="_Ry_smda2EfCpk7lEcjaRcQ" name="projectSuccess" type="BOOLEAN">
@@ -729,7 +729,7 @@
           <iteratorExpression xmi:type="expression:Expression" xmi:id="_Ry_sp9a2EfCpk7lEcjaRcQ" name="multiInstanceIterator" content="multiInstanceIterator" type="MULTIINSTANCE_ITERATOR_TYPE" returnType="java.lang.Object" returnTypeFixed="true"/>
           <completionCondition xmi:type="expression:Expression" xmi:id="_Ry_sqNa2EfCpk7lEcjaRcQ" name="" content="" returnType="java.lang.Boolean" returnTypeFixed="true"/>
           <formMapping xmi:type="process:FormMapping" xmi:id="_Ry_sqda2EfCpk7lEcjaRcQ">
-            <targetForm xmi:type="expression:Expression" xmi:id="_noFvBta2EfCpk7lEcjaRcQ" name="" content="" type="FORM_REFERENCE_TYPE" returnTypeFixed="true"/>
+            <targetForm xmi:type="expression:Expression" xmi:id="__oZNRdctEfCI_rnsAVBrvg" name="" content="" type="FORM_REFERENCE_TYPE" returnTypeFixed="true"/>
           </formMapping>
           <contract xmi:type="process:Contract" xmi:id="_Ry_sq9a2EfCpk7lEcjaRcQ"/>
           <expectedDuration xmi:type="expression:Expression" xmi:id="_Ry_srNa2EfCpk7lEcjaRcQ" name="" content="" returnType="java.lang.Long" returnTypeFixed="true"/>
@@ -744,7 +744,7 @@
           <iteratorExpression xmi:type="expression:Expression" xmi:id="_Ry_stNa2EfCpk7lEcjaRcQ" name="multiInstanceIterator" content="multiInstanceIterator" type="MULTIINSTANCE_ITERATOR_TYPE" returnType="java.lang.Object" returnTypeFixed="true"/>
           <completionCondition xmi:type="expression:Expression" xmi:id="_Ry_stda2EfCpk7lEcjaRcQ" name="" content="" returnType="java.lang.Boolean" returnTypeFixed="true"/>
           <formMapping xmi:type="process:FormMapping" xmi:id="_Ry_stta2EfCpk7lEcjaRcQ">
-            <targetForm xmi:type="expression:Expression" xmi:id="_noFvB9a2EfCpk7lEcjaRcQ" name="" content="" type="FORM_REFERENCE_TYPE" returnTypeFixed="true"/>
+            <targetForm xmi:type="expression:Expression" xmi:id="__oZNRtctEfCI_rnsAVBrvg" name="" content="" type="FORM_REFERENCE_TYPE" returnTypeFixed="true"/>
           </formMapping>
           <contract xmi:type="process:Contract" xmi:id="_Ry_suNa2EfCpk7lEcjaRcQ"/>
           <expectedDuration xmi:type="expression:Expression" xmi:id="_Ry_suda2EfCpk7lEcjaRcQ" name="" content="" returnType="java.lang.Long" returnTypeFixed="true"/>
@@ -952,7 +952,14 @@
             <users xmi:type="actormapping:Users" xmi:id="_Ry_tS9a2EfCpk7lEcjaRcQ"/>
           </actorMapping>
         </actorMappings>
-        <processDependencies xmi:type="configuration:FragmentContainer" xmi:id="_Ry_tTNa2EfCpk7lEcjaRcQ" id="CONNECTOR"/>
+        <definitionMappings xmi:type="configuration:DefinitionMapping" xmi:id="_-UMacNctEfCI_rnsAVBrvg" type="CONNECTOR" definitionId="email" definitionVersion="1.3.0" implementationId="email-impl" implementationVersion="1.5.0"/>
+        <processDependencies xmi:type="configuration:FragmentContainer" xmi:id="_Ry_tTNa2EfCpk7lEcjaRcQ" id="CONNECTOR">
+          <children xmi:type="configuration:FragmentContainer" xmi:id="_-VJcsNctEfCI_rnsAVBrvg" id="email-impl-1.5.0">
+            <fragments xmi:type="configuration:Fragment" xmi:id="_-VMgANctEfCI_rnsAVBrvg" key="email-impl -- 1.5.0" value="bonita-connector-email-1.5.0.jar" type="CONNECTOR"/>
+            <fragments xmi:type="configuration:Fragment" xmi:id="_-VQxcNctEfCI_rnsAVBrvg" key="email-impl -- 1.5.0" value="jakarta.mail-1.6.7.jar" type="CONNECTOR"/>
+            <fragments xmi:type="configuration:Fragment" xmi:id="_-VRYgNctEfCI_rnsAVBrvg" key="email-impl -- 1.5.0" value="jakarta.mail-api-1.6.7.jar" type="CONNECTOR"/>
+          </children>
+        </processDependencies>
         <processDependencies xmi:type="configuration:FragmentContainer" xmi:id="_Ry_tTda2EfCpk7lEcjaRcQ" id="GROOVY_SCRIPT"/>
         <processDependencies xmi:type="configuration:FragmentContainer" xmi:id="_Ry_tTta2EfCpk7lEcjaRcQ" id="ACTOR_FILTER"/>
         <processDependencies xmi:type="configuration:FragmentContainer" xmi:id="_Ry_tT9a2EfCpk7lEcjaRcQ" id="OTHER"/>
