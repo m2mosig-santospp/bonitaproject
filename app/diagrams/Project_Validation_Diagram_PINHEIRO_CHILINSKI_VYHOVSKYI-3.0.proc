@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:decision="http://www.bonitasoft.org/ns/bpm/process/decision" xmlns:expression="http://www.bonitasoft.org/ns/bpm/expression" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.3/notation" xmlns:process="http://www.bonitasoft.org/ns/bpm/process">
-  <process:MainProcess xmi:id="_gUrAUNU4EfC09ayI7yJ2vA" name="Project_Validation_Diagram_PINHEIRO" version="3.0" bonitaModelVersion="8">
-    <elements xmi:type="process:Pool" xmi:id="_gUrAUdU4EfC09ayI7yJ2vA" name="Project_Validation_Process_PINHEIRO" version="3.0">
+  <process:MainProcess xmi:id="_gUrAUNU4EfC09ayI7yJ2vA" name="Project_Validation_Diagram_PINHEIRO_CHILINSKI_VYHOVSKYI" version="3.0" bonitaModelVersion="8">
+    <elements xmi:type="process:Pool" xmi:id="_gUrAUdU4EfC09ayI7yJ2vA" name="Project_Validation_Process_PINHEIRO_CHILINSKI_VYHOVSKYI" version="3.0">
       <elements xmi:type="process:Lane" xmi:id="_gUrAUtU4EfC09ayI7yJ2vA" name="Employee lane" actor="_gUroGdU4EfC09ayI7yJ2vA">
         <elements xmi:type="process:StartEvent" xmi:id="_gUrAU9U4EfC09ayI7yJ2vA" name="Proposal Made" outgoing="_gUrn7dU4EfC09ayI7yJ2vA">
           <dynamicLabel xmi:type="expression:Expression" xmi:id="_gUrnYNU4EfC09ayI7yJ2vA" name="" content="" returnTypeFixed="true"/>

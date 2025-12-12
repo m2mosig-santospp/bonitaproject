@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:actormapping="http://www.bonitasoft.org/ns/actormapping/6.0" xmlns:configuration="http://www.bonitasoft.org/ns/bpm/configuration" xmlns:connectorconfiguration="http://www.bonitasoft.org/model/connector/configuration" xmlns:decision="http://www.bonitasoft.org/ns/bpm/process/decision" xmlns:expression="http://www.bonitasoft.org/ns/bpm/expression" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.3/notation" xmlns:process="http://www.bonitasoft.org/ns/bpm/process">
-  <process:MainProcess xmi:id="_MnkI8NarEfC3r7lk4v4d_Q" name="Project_Validation_Diagram_PINHEIRO" version="6.0" bonitaModelVersion="8">
+  <process:MainProcess xmi:id="_MnkI8NarEfC3r7lk4v4d_Q" name="Project_Validation_Diagram_PINHEIRO_CHILINSKI_VYHOVSKYI" version="6.0" bonitaModelVersion="8">
     <elements xmi:type="process:Pool" xmi:id="_MnkI8darEfC3r7lk4v4d_Q" name="Project_Validation_Process_PINHEIRO" version="6.0">
       <elements xmi:type="process:Lane" xmi:id="_MnkI8tarEfC3r7lk4v4d_Q" name="RD department" actor="_MnkKEtarEfC3r7lk4v4d_Q">
         <elements xmi:type="process:StartEvent" xmi:id="_MnkI89arEfC3r7lk4v4d_Q" name="Proposal Made" outgoing="_MnkJzNarEfC3r7lk4v4d_Q">
