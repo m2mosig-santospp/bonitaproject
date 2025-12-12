@@ -32,7 +32,7 @@
         </elements>
       </elements>
       <elements xmi:type="process:Lane" xmi:id="_Ry_EC9a2EfCpk7lEcjaRcQ" name="General manager" actor="_Ry_tNNa2EfCpk7lEcjaRcQ">
-        <elements xmi:type="process:Task" xmi:id="_Ry_EDNa2EfCpk7lEcjaRcQ" name="Approve Proposal" outgoing="_Ry_s2Na2EfCpk7lEcjaRcQ" incoming="_Ry_syda2EfCpk7lEcjaRcQ" overrideActorsOfTheLane="false">
+        <elements xmi:type="process:Task" xmi:id="_Ry_EDNa2EfCpk7lEcjaRcQ" name="Approve Proposal" outgoing="_Ry_s2Na2EfCpk7lEcjaRcQ _gxtBYNc3EfCIo-fCxvnofQ" incoming="_Ry_syda2EfCpk7lEcjaRcQ" overrideActorsOfTheLane="false">
           <dynamicLabel xmi:type="expression:Expression" xmi:id="_Ry_EDda2EfCpk7lEcjaRcQ" name="" content="" returnTypeFixed="true"/>
           <dynamicDescription xmi:type="expression:Expression" xmi:id="_Ry_EDta2EfCpk7lEcjaRcQ" name="" content="" returnTypeFixed="true"/>
           <stepSummary xmi:type="expression:Expression" xmi:id="_Ry_ED9a2EfCpk7lEcjaRcQ" name="" content="" returnTypeFixed="true"/>
@@ -605,7 +605,7 @@
           <iteratorExpression xmi:type="expression:Expression" xmi:id="_Ry_sQta2EfCpk7lEcjaRcQ" name="multiInstanceIterator" content="multiInstanceIterator" type="MULTIINSTANCE_ITERATOR_TYPE" returnType="java.lang.Object" returnTypeFixed="true"/>
           <completionCondition xmi:type="expression:Expression" xmi:id="_Ry_sQ9a2EfCpk7lEcjaRcQ" name="" content="" returnType="java.lang.Boolean" returnTypeFixed="true"/>
           <formMapping xmi:type="process:FormMapping" xmi:id="_Ry_sRNa2EfCpk7lEcjaRcQ">
-            <targetForm xmi:type="expression:Expression" xmi:id="_l7Mu8NcwEfCpk7lEcjaRcQ" name="" content="" type="FORM_REFERENCE_TYPE" returnTypeFixed="true"/>
+            <targetForm xmi:type="expression:Expression" xmi:id="_hwJF8Nc_EfCIo-fCxvnofQ" name="" content="" type="FORM_REFERENCE_TYPE" returnTypeFixed="true"/>
           </formMapping>
           <contract xmi:type="process:Contract" xmi:id="_Ry_sRta2EfCpk7lEcjaRcQ"/>
           <expectedDuration xmi:type="expression:Expression" xmi:id="_Ry_sR9a2EfCpk7lEcjaRcQ" name="" content="" returnType="java.lang.Long" returnTypeFixed="true"/>
@@ -620,7 +620,7 @@
           <iteratorExpression xmi:type="expression:Expression" xmi:id="_Ry_sT9a2EfCpk7lEcjaRcQ" name="multiInstanceIterator" content="multiInstanceIterator" type="MULTIINSTANCE_ITERATOR_TYPE" returnType="java.lang.Object" returnTypeFixed="true"/>
           <completionCondition xmi:type="expression:Expression" xmi:id="_Ry_sUNa2EfCpk7lEcjaRcQ" name="" content="" returnType="java.lang.Boolean" returnTypeFixed="true"/>
           <formMapping xmi:type="process:FormMapping" xmi:id="_Ry_sUda2EfCpk7lEcjaRcQ">
-            <targetForm xmi:type="expression:Expression" xmi:id="_l7Mu8dcwEfCpk7lEcjaRcQ" name="" content="" type="FORM_REFERENCE_TYPE" returnTypeFixed="true"/>
+            <targetForm xmi:type="expression:Expression" xmi:id="_hwJF8dc_EfCIo-fCxvnofQ" name="" content="" type="FORM_REFERENCE_TYPE" returnTypeFixed="true"/>
           </formMapping>
           <contract xmi:type="process:Contract" xmi:id="_Ry_sU9a2EfCpk7lEcjaRcQ"/>
           <expectedDuration xmi:type="expression:Expression" xmi:id="_Ry_sVNa2EfCpk7lEcjaRcQ" name="" content="" returnType="java.lang.Long" returnTypeFixed="true"/>
@@ -635,7 +635,7 @@
           <iteratorExpression xmi:type="expression:Expression" xmi:id="_Ry_sXNa2EfCpk7lEcjaRcQ" name="multiInstanceIterator" content="multiInstanceIterator" type="MULTIINSTANCE_ITERATOR_TYPE" returnType="java.lang.Object" returnTypeFixed="true"/>
           <completionCondition xmi:type="expression:Expression" xmi:id="_Ry_sXda2EfCpk7lEcjaRcQ" name="" content="" returnType="java.lang.Boolean" returnTypeFixed="true"/>
           <formMapping xmi:type="process:FormMapping" xmi:id="_Ry_sXta2EfCpk7lEcjaRcQ">
-            <targetForm xmi:type="expression:Expression" xmi:id="_l7Mu8tcwEfCpk7lEcjaRcQ" name="" content="" type="FORM_REFERENCE_TYPE" returnTypeFixed="true"/>
+            <targetForm xmi:type="expression:Expression" xmi:id="_hwJF8tc_EfCIo-fCxvnofQ" name="" content="" type="FORM_REFERENCE_TYPE" returnTypeFixed="true"/>
           </formMapping>
           <contract xmi:type="process:Contract" xmi:id="_Ry_sYNa2EfCpk7lEcjaRcQ"/>
           <expectedDuration xmi:type="expression:Expression" xmi:id="_Ry_sYda2EfCpk7lEcjaRcQ" name="" content="" returnType="java.lang.Long" returnTypeFixed="true"/>
@@ -650,7 +650,7 @@
           <iteratorExpression xmi:type="expression:Expression" xmi:id="_Ry_sada2EfCpk7lEcjaRcQ" name="multiInstanceIterator" content="multiInstanceIterator" type="MULTIINSTANCE_ITERATOR_TYPE" returnType="java.lang.Object" returnTypeFixed="true"/>
           <completionCondition xmi:type="expression:Expression" xmi:id="_Ry_sata2EfCpk7lEcjaRcQ" name="" content="" returnType="java.lang.Boolean" returnTypeFixed="true"/>
           <formMapping xmi:type="process:FormMapping" xmi:id="_Ry_sa9a2EfCpk7lEcjaRcQ">
-            <targetForm xmi:type="expression:Expression" xmi:id="_l7Mu89cwEfCpk7lEcjaRcQ" name="" content="" type="FORM_REFERENCE_TYPE" returnTypeFixed="true"/>
+            <targetForm xmi:type="expression:Expression" xmi:id="_hwJF89c_EfCIo-fCxvnofQ" name="" content="" type="FORM_REFERENCE_TYPE" returnTypeFixed="true"/>
           </formMapping>
           <contract xmi:type="process:Contract" xmi:id="_Ry_sbda2EfCpk7lEcjaRcQ"/>
           <expectedDuration xmi:type="expression:Expression" xmi:id="_Ry_sbta2EfCpk7lEcjaRcQ" name="" content="" returnType="java.lang.Long" returnTypeFixed="true"/>
@@ -665,7 +665,7 @@
           <iteratorExpression xmi:type="expression:Expression" xmi:id="_Ry_sdta2EfCpk7lEcjaRcQ" name="multiInstanceIterator" content="multiInstanceIterator" type="MULTIINSTANCE_ITERATOR_TYPE" returnType="java.lang.Object" returnTypeFixed="true"/>
           <completionCondition xmi:type="expression:Expression" xmi:id="_Ry_sd9a2EfCpk7lEcjaRcQ" name="" content="" returnType="java.lang.Boolean" returnTypeFixed="true"/>
           <formMapping xmi:type="process:FormMapping" xmi:id="_Ry_seNa2EfCpk7lEcjaRcQ">
-            <targetForm xmi:type="expression:Expression" xmi:id="_l7NWANcwEfCpk7lEcjaRcQ" name="" content="" type="FORM_REFERENCE_TYPE" returnTypeFixed="true"/>
+            <targetForm xmi:type="expression:Expression" xmi:id="_hwJF9Nc_EfCIo-fCxvnofQ" name="" content="" type="FORM_REFERENCE_TYPE" returnTypeFixed="true"/>
           </formMapping>
           <contract xmi:type="process:Contract" xmi:id="_Ry_seta2EfCpk7lEcjaRcQ"/>
           <expectedDuration xmi:type="expression:Expression" xmi:id="_Ry_se9a2EfCpk7lEcjaRcQ" name="" content="" returnType="java.lang.Long" returnTypeFixed="true"/>
@@ -679,6 +679,40 @@
           <cardinalityExpression xmi:type="expression:Expression" xmi:id="_Ry_sgta2EfCpk7lEcjaRcQ" name="" content="" returnType="java.lang.Integer" returnTypeFixed="true"/>
           <iteratorExpression xmi:type="expression:Expression" xmi:id="_Ry_sg9a2EfCpk7lEcjaRcQ" name="multiInstanceIterator" content="multiInstanceIterator" type="MULTIINSTANCE_ITERATOR_TYPE" returnType="java.lang.Object" returnTypeFixed="true"/>
           <completionCondition xmi:type="expression:Expression" xmi:id="_Ry_shNa2EfCpk7lEcjaRcQ" name="" content="" returnType="java.lang.Boolean" returnTypeFixed="true"/>
+        </elements>
+        <elements xmi:type="process:ScriptTask" xmi:id="_kzrpENc3EfCIo-fCxvnofQ" name="Generate PDF" incoming="_gxtBYNc3EfCIo-fCxvnofQ">
+          <dynamicLabel xmi:type="expression:Expression" xmi:id="_gxRjkdc3EfCIo-fCxvnofQ" name="" content="" returnTypeFixed="true"/>
+          <dynamicDescription xmi:type="expression:Expression" xmi:id="_gxRjkNc3EfCIo-fCxvnofQ" name="" content="" returnTypeFixed="true"/>
+          <stepSummary xmi:type="expression:Expression" xmi:id="_gxRjktc3EfCIo-fCxvnofQ" name="" content="" returnTypeFixed="true"/>
+          <connectors xmi:type="process:Connector" xmi:id="_1RVVANc8EfCIo-fCxvnofQ" name="scriptPDF" definitionId="scripting-groovy-script" event="ON_ENTER" throwErrorEvent="true" namedError="scriptPDFError" definitionVersion="1.0.1">
+            <configuration xmi:type="connectorconfiguration:ConnectorConfiguration" xmi:id="_1RYYUNc8EfCIo-fCxvnofQ" definitionId="scripting-groovy-script" version="1.0.1" modelVersion="8">
+              <parameters xmi:type="connectorconfiguration:ConnectorParameter" xmi:id="_1RY_YNc8EfCIo-fCxvnofQ" key="script">
+                <expression xmi:type="expression:Expression" xmi:id="_1RY_Ydc8EfCIo-fCxvnofQ" interpreter="GROOVY" type="TYPE_READ_ONLY_SCRIPT" returnTypeFixed="true"/>
+              </parameters>
+              <parameters xmi:type="connectorconfiguration:ConnectorParameter" xmi:id="_1RZmcNc8EfCIo-fCxvnofQ" key="variables">
+                <expression xmi:type="expression:Expression" xmi:id="_1RZmcdc8EfCIo-fCxvnofQ" returnType="java.util.List" returnTypeFixed="true"/>
+              </parameters>
+              <parameters xmi:type="connectorconfiguration:ConnectorParameter" xmi:id="_1RZmctc8EfCIo-fCxvnofQ" key="fakeScriptExpression">
+                <expression xmi:type="expression:Expression" xmi:id="_1RZmc9c8EfCIo-fCxvnofQ" name="PDFScript()" content="import org.bonitasoft.engine.bpm.document.DocumentValue&#xA;import java.io.ByteArrayOutputStream&#xA;import com.itextpdf.text.Paragraph&#xA;import com.itextpdf.text.pdf.PdfWriter&#xA;&#xA;// create PDF in memory&#xA;com.itextpdf.text.Document pdf = new com.itextpdf.text.Document()&#xA;ByteArrayOutputStream outputStream = new ByteArrayOutputStream()&#xA;PdfWriter.getInstance(pdf, outputStream)&#xA;pdf.open()&#xA;pdf.add(new Paragraph(&quot;Project Proposal: &quot; + project.proposal))&#xA;pdf.add(new Paragraph(&quot;Description: &quot; + project.proposalDescription))&#xA;pdf.add(new Paragraph(&quot;Priority: &quot; + project.proposalPriority))&#xA;pdf.add(new Paragraph(&quot;Approved: &quot; + project.proposalOK))&#xA;pdf.close()&#xA;&#xA;// build DocumentValue and return it&#xA;def result = new DocumentValue(&#xA;&#x9;outputStream.toByteArray(),&#xA;&#x9;&quot;project.pdf&quot;,&#xA;&#x9;&quot;application/pdf&quot;&#xA;)&#xA;&#xA;return result" interpreter="GROOVY" type="TYPE_READ_ONLY_SCRIPT" returnType="java.lang.Object" returnTypeFixed="true">
+                  <referencedElements xmi:type="process:BusinessObjectData" xmi:id="_1GDKsNc_EfCIo-fCxvnofQ" name="project" dataType="_Ry_tcNa2EfCpk7lEcjaRcQ" className="com.peproject.model.Project"/>
+                </expression>
+              </parameters>
+            </configuration>
+            <outputs xmi:type="expression:Operation" xmi:id="_z2fcwNc-EfCIo-fCxvnofQ">
+              <leftOperand xmi:type="expression:Expression" xmi:id="_z2h5ANc-EfCIo-fCxvnofQ" name="projectPDF" content="projectPDF" type="DOCUMENT_REF_TYPE">
+                <referencedElements xmi:type="process:Document" xmi:id="_z2igENc-EfCIo-fCxvnofQ" name="projectPDF"/>
+              </leftOperand>
+              <rightOperand xmi:type="expression:Expression" xmi:id="_z2jHINc-EfCIo-fCxvnofQ" name="newScript()" content="import org.bonitasoft.engine.bpm.document.DocumentValue&#xA;import java.io.ByteArrayOutputStream&#xA;import com.itextpdf.text.Paragraph&#xA;import com.itextpdf.text.pdf.PdfWriter&#xA;&#xA;// Use fully-qualified class for the PDF document&#xA;com.itextpdf.text.Document pdf = new com.itextpdf.text.Document()&#xA;ByteArrayOutputStream outputStream = new ByteArrayOutputStream()&#xA;PdfWriter.getInstance(pdf, outputStream)&#xA;pdf.open()&#xA;pdf.add(new Paragraph(&quot;Project Proposal: &quot; + project.proposal))&#xA;pdf.add(new Paragraph(&quot;Description: &quot; + project.proposalDescription))&#xA;pdf.add(new Paragraph(&quot;Priority: &quot; + project.proposalPriority))&#xA;pdf.add(new Paragraph(&quot;Approved: &quot; + project.proposalOK))&#xA;pdf.close()&#xA;&#xA;// Return a DocumentValue (this is what Bonita expects)&#xA;return new DocumentValue(outputStream.toByteArray(), &quot;project.pdf&quot;, &quot;application/pdf&quot;)" interpreter="GROOVY" type="TYPE_READ_ONLY_SCRIPT" returnType="org.bonitasoft.engine.bpm.document.DocumentValue">
+                <referencedElements xmi:type="process:BusinessObjectData" xmi:id="_1GGOANc_EfCIo-fCxvnofQ" name="project" dataType="_Ry_tcNa2EfCpk7lEcjaRcQ" className="com.peproject.model.Project"/>
+              </rightOperand>
+              <operator xmi:type="expression:Operator" xmi:id="_z2jHItc-EfCIo-fCxvnofQ" type="DOCUMENT_CREATE_UPDATE"/>
+            </outputs>
+          </connectors>
+          <loopCondition xmi:type="expression:Expression" xmi:id="_gxSKoNc3EfCIo-fCxvnofQ" name="" content="" returnType="java.lang.Boolean" returnTypeFixed="true"/>
+          <loopMaximum xmi:type="expression:Expression" xmi:id="_gxSKodc3EfCIo-fCxvnofQ" name="" content="" returnType="java.lang.Integer" returnTypeFixed="true"/>
+          <cardinalityExpression xmi:type="expression:Expression" xmi:id="_gxSKotc3EfCIo-fCxvnofQ" name="" content="" returnType="java.lang.Integer" returnTypeFixed="true"/>
+          <iteratorExpression xmi:type="expression:Expression" xmi:id="_gxSKpNc3EfCIo-fCxvnofQ" name="multiInstanceIterator" content="multiInstanceIterator" type="MULTIINSTANCE_ITERATOR_TYPE" returnType="java.lang.Object" returnTypeFixed="true"/>
+          <completionCondition xmi:type="expression:Expression" xmi:id="_gxSKo9c3EfCIo-fCxvnofQ" name="" content="" returnType="java.lang.Boolean" returnTypeFixed="true"/>
         </elements>
       </elements>
       <elements xmi:type="process:Lane" xmi:id="_Ry_shda2EfCpk7lEcjaRcQ" name="Board of diretors" actor="_Ry_tNda2EfCpk7lEcjaRcQ">
@@ -729,7 +763,7 @@
           <iteratorExpression xmi:type="expression:Expression" xmi:id="_Ry_sp9a2EfCpk7lEcjaRcQ" name="multiInstanceIterator" content="multiInstanceIterator" type="MULTIINSTANCE_ITERATOR_TYPE" returnType="java.lang.Object" returnTypeFixed="true"/>
           <completionCondition xmi:type="expression:Expression" xmi:id="_Ry_sqNa2EfCpk7lEcjaRcQ" name="" content="" returnType="java.lang.Boolean" returnTypeFixed="true"/>
           <formMapping xmi:type="process:FormMapping" xmi:id="_Ry_sqda2EfCpk7lEcjaRcQ">
-            <targetForm xmi:type="expression:Expression" xmi:id="_l7NWAdcwEfCpk7lEcjaRcQ" name="" content="" type="FORM_REFERENCE_TYPE" returnTypeFixed="true"/>
+            <targetForm xmi:type="expression:Expression" xmi:id="_hwJF9dc_EfCIo-fCxvnofQ" name="" content="" type="FORM_REFERENCE_TYPE" returnTypeFixed="true"/>
           </formMapping>
           <contract xmi:type="process:Contract" xmi:id="_Ry_sq9a2EfCpk7lEcjaRcQ"/>
           <expectedDuration xmi:type="expression:Expression" xmi:id="_Ry_srNa2EfCpk7lEcjaRcQ" name="" content="" returnType="java.lang.Long" returnTypeFixed="true"/>
@@ -744,7 +778,7 @@
           <iteratorExpression xmi:type="expression:Expression" xmi:id="_Ry_stNa2EfCpk7lEcjaRcQ" name="multiInstanceIterator" content="multiInstanceIterator" type="MULTIINSTANCE_ITERATOR_TYPE" returnType="java.lang.Object" returnTypeFixed="true"/>
           <completionCondition xmi:type="expression:Expression" xmi:id="_Ry_stda2EfCpk7lEcjaRcQ" name="" content="" returnType="java.lang.Boolean" returnTypeFixed="true"/>
           <formMapping xmi:type="process:FormMapping" xmi:id="_Ry_stta2EfCpk7lEcjaRcQ">
-            <targetForm xmi:type="expression:Expression" xmi:id="_l7NWAtcwEfCpk7lEcjaRcQ" name="" content="" type="FORM_REFERENCE_TYPE" returnTypeFixed="true"/>
+            <targetForm xmi:type="expression:Expression" xmi:id="_hwJF9tc_EfCIo-fCxvnofQ" name="" content="" type="FORM_REFERENCE_TYPE" returnTypeFixed="true"/>
           </formMapping>
           <contract xmi:type="process:Contract" xmi:id="_Ry_suNa2EfCpk7lEcjaRcQ"/>
           <expectedDuration xmi:type="expression:Expression" xmi:id="_Ry_suda2EfCpk7lEcjaRcQ" name="" content="" returnType="java.lang.Long" returnTypeFixed="true"/>
@@ -913,6 +947,10 @@
         <decisionTable xmi:type="decision:DecisionTable" xmi:id="_aDdsYNa2EfCpk7lEcjaRcQ"/>
         <condition xmi:type="expression:Expression" xmi:id="_aDeTcNa2EfCpk7lEcjaRcQ" name="" returnType="java.lang.Boolean" returnTypeFixed="true"/>
       </connections>
+      <connections xmi:type="process:SequenceFlow" xmi:id="_gxtBYNc3EfCIo-fCxvnofQ" target="_kzrpENc3EfCIo-fCxvnofQ" source="_Ry_EDNa2EfCpk7lEcjaRcQ">
+        <decisionTable xmi:type="decision:DecisionTable" xmi:id="_gxuPgNc3EfCIo-fCxvnofQ"/>
+        <condition xmi:type="expression:Expression" xmi:id="_gxuPgdc3EfCIo-fCxvnofQ" name="" content="" returnType="java.lang.Boolean" returnTypeFixed="true"/>
+      </connections>
       <actors xmi:type="process:Actor" xmi:id="_Ry_tMta2EfCpk7lEcjaRcQ" documentation="This is an example of actor that is mapped to any ACME users" name="Employee actor"/>
       <actors xmi:type="process:Actor" xmi:id="_Ry_tM9a2EfCpk7lEcjaRcQ" name="RDEmployee" initiator="true"/>
       <actors xmi:type="process:Actor" xmi:id="_Ry_tNNa2EfCpk7lEcjaRcQ" name="GeneralManager"/>
@@ -953,16 +991,22 @@
           </actorMapping>
         </actorMappings>
         <definitionMappings xmi:type="configuration:DefinitionMapping" xmi:id="_-UMacNctEfCI_rnsAVBrvg" type="CONNECTOR" definitionId="email" definitionVersion="1.3.0" implementationId="email-impl" implementationVersion="1.5.0"/>
+        <definitionMappings xmi:type="configuration:DefinitionMapping" xmi:id="_LzsHoNc9EfCIo-fCxvnofQ" type="CONNECTOR" definitionId="scripting-groovy-script" definitionVersion="1.0.1" implementationId="scripting-groovy-script-impl" implementationVersion="1.1.4"/>
         <processDependencies xmi:type="configuration:FragmentContainer" xmi:id="_Ry_tTNa2EfCpk7lEcjaRcQ" id="CONNECTOR">
           <children xmi:type="configuration:FragmentContainer" xmi:id="_-VJcsNctEfCI_rnsAVBrvg" id="email-impl-1.5.0">
             <fragments xmi:type="configuration:Fragment" xmi:id="_-VMgANctEfCI_rnsAVBrvg" key="email-impl -- 1.5.0" value="bonita-connector-email-1.5.0.jar" type="CONNECTOR"/>
             <fragments xmi:type="configuration:Fragment" xmi:id="_-VQxcNctEfCI_rnsAVBrvg" key="email-impl -- 1.5.0" value="jakarta.mail-1.6.7.jar" type="CONNECTOR"/>
             <fragments xmi:type="configuration:Fragment" xmi:id="_-VRYgNctEfCI_rnsAVBrvg" key="email-impl -- 1.5.0" value="jakarta.mail-api-1.6.7.jar" type="CONNECTOR"/>
           </children>
+          <children xmi:type="configuration:FragmentContainer" xmi:id="_L0SkkNc9EfCIo-fCxvnofQ" id="scripting-groovy-script-impl-1.1.4">
+            <fragments xmi:type="configuration:Fragment" xmi:id="_L0Vn4Nc9EfCIo-fCxvnofQ" key="scripting-groovy-script-impl -- 1.1.4" value="bonita-connector-groovy-1.1.4.jar" type="CONNECTOR"/>
+          </children>
         </processDependencies>
         <processDependencies xmi:type="configuration:FragmentContainer" xmi:id="_Ry_tTda2EfCpk7lEcjaRcQ" id="GROOVY_SCRIPT"/>
         <processDependencies xmi:type="configuration:FragmentContainer" xmi:id="_Ry_tTta2EfCpk7lEcjaRcQ" id="ACTOR_FILTER"/>
-        <processDependencies xmi:type="configuration:FragmentContainer" xmi:id="_Ry_tT9a2EfCpk7lEcjaRcQ" id="OTHER"/>
+        <processDependencies xmi:type="configuration:FragmentContainer" xmi:id="_Ry_tT9a2EfCpk7lEcjaRcQ" id="OTHER">
+          <fragments xmi:type="configuration:Fragment" xmi:id="_ZfP1gNc5EfCIo-fCxvnofQ" key="itextpdf-5.5.13.3.jar" value="itextpdf-5.5.13.3.jar" type="JAR"/>
+        </processDependencies>
         <applicationDependencies xmi:type="configuration:FragmentContainer" xmi:id="_Ry_tUNa2EfCpk7lEcjaRcQ" id="GROOVY_SCRIPT"/>
       </configurations>
       <contract xmi:type="process:Contract" xmi:id="_Ry_tUda2EfCpk7lEcjaRcQ">
@@ -977,6 +1021,11 @@
           <inputNames>projectInput</inputNames>
         </constraints>
       </contract>
+      <documents xmi:type="process:Document" xmi:id="_HIlcsNc4EfCIo-fCxvnofQ" name="projectPDF">
+        <mimeType xmi:type="expression:Expression" xmi:id="_HIogANc4EfCIo-fCxvnofQ" name="" content="" returnTypeFixed="true"/>
+        <url xmi:type="expression:Expression" xmi:id="_HIpHENc4EfCIo-fCxvnofQ" name="" content="" returnTypeFixed="true"/>
+        <initialMultipleContent xmi:type="expression:Expression" xmi:id="_HIpuINc4EfCIo-fCxvnofQ" name="" content="" type="TYPE_READ_ONLY_SCRIPT" returnType="java.util.List" returnTypeFixed="true"/>
+      </documents>
       <searchIndexes xmi:type="process:SearchIndex" xmi:id="_Ry_tWda2EfCpk7lEcjaRcQ">
         <name xmi:type="expression:Expression" xmi:id="_Ry_tWta2EfCpk7lEcjaRcQ" content="" returnTypeFixed="true"/>
         <value xmi:type="expression:Expression" xmi:id="_Ry_tW9a2EfCpk7lEcjaRcQ" content="" returnTypeFixed="true"/>
@@ -1172,6 +1221,10 @@
             <children xmi:type="notation:Shape" xmi:id="_Ry_t5da2EfCpk7lEcjaRcQ" type="3027" element="_Ry_sfNa2EfCpk7lEcjaRcQ" fontName="Noto Sans" fillColor="14334392" lineColor="10710316">
               <children xmi:type="notation:DecorationNode" xmi:id="_Ry_t5ta2EfCpk7lEcjaRcQ" type="5017"/>
               <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ry_t59a2EfCpk7lEcjaRcQ" x="1277" y="197" width="138" height="68"/>
+            </children>
+            <children xmi:type="notation:Shape" xmi:id="_kz7gsNc3EfCIo-fCxvnofQ" type="3028" element="_kzrpENc3EfCIo-fCxvnofQ" fontName=".AppleSystemUIFont" fillColor="14334392" lineColor="10710316">
+              <children xmi:type="notation:DecorationNode" xmi:id="_k0BAQNc3EfCIo-fCxvnofQ" type="5018"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_kz8HwNc3EfCIo-fCxvnofQ" x="103" y="317" width="100" height="49"/>
             </children>
           </children>
           <styles xmi:type="notation:DescriptionStyle" xmi:id="_Ry_t6Na2EfCpk7lEcjaRcQ"/>
@@ -1498,6 +1551,14 @@
       <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_aDjL8ta2EfCpk7lEcjaRcQ" points="[0, 0, -83, -319]$[83, 319, 0, 0]"/>
       <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_aD6YUNa2EfCpk7lEcjaRcQ" id="(1.0,0.62)"/>
       <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_aD6YUda2EfCpk7lEcjaRcQ" id="(0.4666666666666667,0.0)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_gxyg8Nc3EfCIo-fCxvnofQ" type="4001" element="_gxtBYNc3EfCIo-fCxvnofQ" source="_Ry_tita2EfCpk7lEcjaRcQ" target="_kz7gsNc3EfCIo-fCxvnofQ" roundedBendpointsRadius="10" routing="Rectilinear">
+      <children xmi:type="notation:DecorationNode" xmi:id="_gx09MNc3EfCIo-fCxvnofQ" type="6001">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_gx09Mdc3EfCIo-fCxvnofQ" y="-10"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_gxzvENc3EfCIo-fCxvnofQ" fontName=".AppleSystemUIFont"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_gxzvEdc3EfCIo-fCxvnofQ" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_jJ_HYNc3EfCIo-fCxvnofQ" id="(0.09,0.92)"/>
     </edges>
   </notation:Diagram>
 </xmi:XMI>
